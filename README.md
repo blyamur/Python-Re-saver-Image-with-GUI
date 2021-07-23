@@ -9,7 +9,7 @@
 ![Python-Resize-Image](https://github.com/blyamur/Python-Resaving-Image-with-GUI/blob/main/process.jpg) 
 
 
-
+ Windows 7-10 applications \ Приложения для Windows 7-10 
 
 [Python Resaving Image with GUI-English](https://github.com/blyamur/Python-Resaving-Image-with-GUI/releases/tag/resaver)
 
