@@ -1,4 +1,5 @@
-# Python-Re-saver-Image-with-GUI
+# Python: Resaving Image with GUI
+
 
 
 ![Python-Resize-Image](https://github.com/blyamur/Python-Re-saver-Image-with-GUI/blob/main/splash_logo.jpg)
