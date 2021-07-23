@@ -1,8 +1,10 @@
 # Python: Resaving Image with GUI
 
-
-
 ![Python-Resize-Image](https://github.com/blyamur/Python-Resaving-Image-with-GUI/blob/main/splash_logo.jpg)
+
+Данный скрипт служит для решения проблемы с неоткрывающимися картинками и скриншотами в Виндовс, сделанные на смартфоне. Например для случаев, когда при открытии изображения штатными средствами системы, вы получаете ошибку о нехватке памяти и ресурсов компьютера.
+
+This script is used to solve the problem with non-opening pictures and screenshots in Windows, made on a smartphone. For example, for cases when, when opening an image using standard system tools, you receive an error about insufficient memory and computer resources.
 
 ![Python-Resize-Image](https://github.com/blyamur/Python-Resaving-Image-with-GUI/blob/main/error.jpg)
 
