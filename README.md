@@ -19,7 +19,8 @@ This script is used to solve the problem with non-opening pictures and screensho
   <img src="https://github.com/blyamur/Python-Resaving-Image-with-GUI/blob/main/process.jpg" />
 </p>
 
-### Windows 7-10 applications \ Приложения для Windows 7-10 
+### Windows 7-10 applications
+### Приложения для Windows 7-10 
 
 [Python Resaving Image with GUI-English](https://github.com/blyamur/Python-Resaving-Image-with-GUI/releases/tag/resaver)
 
