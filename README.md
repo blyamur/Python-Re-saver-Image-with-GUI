@@ -8,6 +8,8 @@ This script is used to solve the problem with non-opening pictures and screensho
   <img src="https://github.com/blyamur/Python-Resaving-Image-with-GUI/blob/main/splash_logo.jpg" />
 </p>
 
+
+
 <p align="center">
   <img src="https://github.com/blyamur/Python-Resaving-Image-with-GUI/blob/main/error.jpg" />
 </p>
