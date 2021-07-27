@@ -2,7 +2,7 @@
 
 Данный скрипт служит для решения проблемы с неоткрывающимися картинками и скриншотами в Виндовс, сделанные на смартфоне. Например для случаев, когда при открытии изображения штатными средствами системы, вы получаете ошибку о нехватке памяти и ресурсов компьютера.
 
-This script is used to solve the problem with non-opening pictures and screenshots in Windows, made on a smartphone. For example, for cases when, when opening an image using standard system tools, you receive an error about insufficient memory and computer resources.
+> This script is used to solve the problem with non-opening pictures and screenshots in Windows, made on a smartphone. For example, for cases when, when opening an image using standard system tools, you receive an error about insufficient memory and computer resources.
 
 <p align="center">
   <img src="https://github.com/blyamur/Python-Resaving-Image-with-GUI/blob/main/main.png" />
@@ -20,7 +20,7 @@ This script is used to solve the problem with non-opening pictures and screensho
 
 Можно установить одну из многочисленных программ для просмотра изображений. Мне кажется это неудобным и опять же захламляется система. Можно пересохранять изображения через графические редакторы: Affinity Photo или Adobe Photoshop, Gimp, при этом чаще всего встанет нужный цветовой профиль, но делать это каждый раз, означает тратить кучу времени. Можно просто открыть в встроенном редакторе Paint, при этом вы получите возможность просмотреть изображение, но это тоже не очень удобно, особенно если дальше вам нужно печатать или регулярно просматривать изображение или их несколько. Можно попробовать в Paint пересохранить изображение, некоторым, но это помогает. Я пошел несколько иным путем, может не совсем быстрым и удобным, но свои задачи он решает. И так...
 
-Для решения данной проблемы, в качестве временного решения, предлагаю вашему вниманию небольшую и простую программу (или скрипт) на Python 3.
+Для решения данной проблемы, в качестве временного решения, предлагаю вашему вниманию простую программу (скрипт) на Python 3.
 
 - запускаем скрипт (программу)
 - жмем на кнопку "выбрать файл"
@@ -30,8 +30,8 @@ This script is used to solve the problem with non-opening pictures and screensho
 При этом оригинал никуда не удаляется, все остается на своих местах, а новый файл в названии имеет как старое имя так и новое, чтобы было удобно найти и не запутаться. Что делать со старым изображением решать вам. Лично я, после того как убеждаюсь, что новый открывается, старый удаляю, во избежание путаницы. Программа не требует установки, весит всего 11 Мб и не мусорит после себя. Если уж она у вас запустилась, то дальше проблем не должно быть.
        
         
-### Scheme
-> Общая схема
+### Общая схема
+> Scheme
 
 Внутри происходит следующий процесс: программа делает копию файла, при этом сохраняя его в .bmp, затем открывает только созданный .bmp файл и просто переименовывает в тот формат, который был ранее. Как видим все просто. А после уведомления об успешном сохранении, сразу же после первого файла можно пересохранять следующий, если у вас несколько изображений.  
 
@@ -41,8 +41,7 @@ This script is used to solve the problem with non-opening pictures and screensho
 
 
 
-### Windows 7-10 applications
-### Приложения для Windows 7-10 
+### Windows 7-10 applications \ Приложения для Windows 7-10 
 
 <p align="center">
   <img src="https://github.com/blyamur/Python-Resaving-Image-with-GUI/blob/main/process.png" />
