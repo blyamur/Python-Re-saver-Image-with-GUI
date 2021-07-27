@@ -5,7 +5,7 @@
 This script is used to solve the problem with non-opening pictures and screenshots in Windows, made on a smartphone. For example, for cases when, when opening an image using standard system tools, you receive an error about insufficient memory and computer resources.
 
 <p align="center">
-  <img src="https://github.com/blyamur/Python-Resaving-Image-with-GUI/blob/main/splash_logo.jpg" />
+  <img src="https://github.com/blyamur/Python-Resaving-Image-with-GUI/blob/main/main.png" />
 </p>
 
 
@@ -18,7 +18,11 @@ This script is used to solve the problem with non-opening pictures and screensho
 > Общая схема
 
 <p align="center">
-  <img src="https://github.com/blyamur/Python-Resaving-Image-with-GUI/blob/main/process.jpg" />
+  <img src="https://github.com/blyamur/Python-Resaving-Image-with-GUI/blob/main/process_2.png" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/blyamur/Python-Resaving-Image-with-GUI/blob/main/process.png" />
 </p>
 
 ### Windows 7-10 applications
