@@ -39,17 +39,26 @@ This script is used to solve the problem with non-opening pictures and screensho
   <img src="https://github.com/blyamur/Python-Resaving-Image-with-GUI/blob/main/process_2.png" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/blyamur/Python-Resaving-Image-with-GUI/blob/main/process.png" />
-</p>
+
 
 ### Windows 7-10 applications
 ### Приложения для Windows 7-10 
+
+<p align="center">
+  <img src="https://github.com/blyamur/Python-Resaving-Image-with-GUI/blob/main/process.png" />
+</p>
 
 [Python Resaving Image with GUI-English](https://github.com/blyamur/Python-Resaving-Image-with-GUI/releases/tag/v1.1)
 
 [Скрипт на питоне, для пересохранения изображений с интерфейсом -Русский](https://github.com/blyamur/Python-Resaving-Image-with-GUI/releases/tag/v1.0)
 
+Вы можете сделать свой вариант приложения, взяв с Github python скрипт с исходным кодом (писалось под версию Python 3.8), необходимые исходники иконки в формате .PNG и готовый файл иконки в формате .ICO. Все это можно отредактировать, что-то убрать или дописать свой функционал и при желании через pyinstaller собрать в один файл, предварительно распаковав все содержимое архива в одну папку (например resaver_ru).
+
+Например для windows команда на сборку у меня выглядела так:
+
+``` 
+pyinstaller resaver_ru.py --noconsole --onefile --icon=icon.ico
+```
 
 ### Copyrights and Licenses
 Not for commercial use.
