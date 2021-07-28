@@ -68,7 +68,7 @@ Not for commercial use.
 
 Happy to hear that :) *If You want to help me, you can buy me a cup of  [cup of coffee](https://yoomoney.ru/to/41001158104834)*
 
-> Рад это слышать :) Если вы хотите мне помочь, вы можете поддержать меня материально
+> Рад это слышать :) Если вы хотите мне помочь, вы можете угостить меня чашкой кофе
 
 
 
