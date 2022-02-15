@@ -60,7 +60,7 @@ pyinstaller resaver_ru.py --noconsole --onefile --icon=icon.ico
 ### Copyrights and Licenses
 Not for commercial use.
 
-2021  [Mons](https://blog.mons.ws)
+2022  [Mons](https://blog.mons.ws)
 
 
 ### Did you find this useful?!
